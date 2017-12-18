@@ -1,5 +1,5 @@
 {
-    "name": "sudiptpa/omnipay-nabtransact",
+    "name": "dasunr/omnipay-nabtransact",
     "type": "library",
     "description": "NAB Transact driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,12 +10,12 @@
         "payment",
         "nabtransact"
     ],
-    "homepage": "https://github.com/sudiptpa/nabtransact",
+    "homepage": "https://github.com/dasunr/nabtransact",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sujip Thapa",
-            "email": "sudiptpa@gmail.com"
+            "name": "Dasun R",
+            "email": "dasunr@gmail.com"
         }
     ],
     "autoload": {
